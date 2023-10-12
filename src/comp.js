@@ -10,7 +10,7 @@ const Comp = ({props}) => {
         <>
         <div className = "model-wrapper" onClick={props}></div>
         <div className = "model-container">
-            <p>Hello bhaiyo Ye hamara Pop Up Notification Hai</p>
+            <p>Hello bhaiyo Ye hamara Pop Up Notification Hai or btao</p>
             <button onClick = {props}>Close</button>
         </div>
         </>
